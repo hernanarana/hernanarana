@@ -37,6 +37,8 @@
   <img src="https://img.shields.io/badge/SAP%20HANA-059669?style=flat-square" alt="SAP HANA">
   <img src="https://img.shields.io/badge/SQL-059669?style=flat-square" alt="SQL">
   <img src="https://img.shields.io/badge/Python-059669?style=flat-square" alt="Python">
+  <img src="https://img.shields.io/badge/pandas-059669?style=flat-square" alt="pandas">
+  <img src="https://img.shields.io/badge/scikit--learn-059669?style=flat-square" alt="scikit-learn">
   <img src="https://img.shields.io/badge/Power%20BI-059669?style=flat-square" alt="Power BI">
   <img src="https://img.shields.io/badge/Excel-059669?style=flat-square" alt="Excel">
   <img src="https://img.shields.io/badge/JavaScript-047857?style=flat-square" alt="JavaScript">
@@ -62,6 +64,12 @@
 | **Kondor Parfums** | Tienda online de perfumes con tema propio y marketing en Instagram | Shopify · Mercado Pago | [kondorparfums.com](https://kondorparfums.com/) |
 | **Capitán — Rock en vivo** | Web de la banda y plataforma de venta de entradas | Next.js · Vercel | [Sitio](https://capitan-web.vercel.app/) · [Entradas](https://capitan-tickets.vercel.app/) |
 | [**Punto de Encuentro**](https://github.com/hernanarana/punto-de-encuentro) | Tienda y servicios técnicos con panel de administración y pedidos por WhatsApp | React · Firebase · Leaflet | [Demo](https://punto-de-encuentro.vercel.app) |
+
+**Data Science**
+
+| Proyecto | Qué es | Tecnologías | Ver |
+| --- | --- | --- | --- |
+| [**Análisis de abastecimiento y stock**](https://github.com/hernanarana/hernanarana.github.io/tree/main/analisis-abastecimiento) | Curva ABC, pronóstico de demanda, punto de pedido y proveedores (datos simulados) | Python · pandas · scikit-learn | [Tablero](https://hernanarana.github.io/analisis-abastecimiento/) |
 
 **Proyectos de código**
 
