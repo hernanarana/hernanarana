@@ -79,6 +79,7 @@
 const lusanPro = {
   creador: "Hernán Arana",
   ubicacion: "Argentina · trabajo remoto",
+  idiomas: ["Español (nativo)", "Inglés (intermedio)"],
   email: "hernanarana88@gmail.com",
   disponible: true,
 };
