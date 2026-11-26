@@ -70,6 +70,7 @@
 | Proyecto | Qué es | Tecnologías | Ver |
 | --- | --- | --- | --- |
 | [**Análisis de abastecimiento y stock**](https://github.com/hernanarana/hernanarana.github.io/tree/main/analisis-abastecimiento) | Curva ABC, pronóstico de demanda, punto de pedido y proveedores (datos simulados) | Python · pandas · scikit-learn | [Tablero](https://hernanarana.github.io/analisis-abastecimiento/) |
+| [**Análisis de ventas de una tienda**](https://github.com/hernanarana/hernanarana.github.io/tree/main/analisis-ventas) | Pronóstico de ventas, margen por categoría y segmentos de clientes con K-means (datos simulados) | Python · scikit-learn | [Tablero](https://hernanarana.github.io/analisis-ventas/) |
 
 **Proyectos de código**
 
